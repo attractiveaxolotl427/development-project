@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://development-project.pages.dev/`
+https://development-project.pages.dev/
 
 ### Goal and Value of the Application
 The goal of the application is to be able to browse and purchase Kirby merchandise (essentially a very small online store). This can be valuable to a user who is looking to buy new Kirby-themed merchandise, as they can sort via price or item name, and browse using keyboard/letter inputs to search through the items conveniently.
