@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Kirby Backpack",
+    "description": "A Kirby themed small backpack",
+    "price": 7.99,
+    "image": "images/kirby-backpack.jpeg"
+  },
+  {
+    "name": "Kirby Beanie Hat",
+    "description": "A Kirby themed beanie with two star-themed dongles attached",
+    "price": 4.99,
+    "image": "images/kirby-beanie.jpeg"
+  },
+  {
+    "name": "Kirby Bucket Hat",
+    "description": "A cute Kirby themed bucket hat",
+    "price": 2.99,
+    "image": "images/kirby-bucket-hat.jpeg"
+  },
+  {
+    "name": "Kirby Carton Bottle",
+    "description": "A Kirby themed empty glass carton",
+    "price": 5.99,
+    "image": "images/kirby-carton.jpeg"
+  },
+  {
+    "name": "Kirby Cuffs with Earrings",
+    "description": "Kirby themed earring cuffs, used as accessory",
+    "price": 3.99,
+    "image": "images/kirby-cuffs.jpeg"
+  },
+  {
+    "name": "Kirby Earrings",
+    "description": "Kirby themed star lollipop dangly earrings",
+    "price": 4.99,
+    "image": "images/kirby-earrings-1.jpeg"
+  },
+  {
+    "name": "Kirby Gloves",
+    "description": "Kirby themed fingerless gloves",
+    "price": 4.99,
+    "image": "images/kirby-gloves.jpeg"
+  },
+  {
+    "name": "Kirby Lanyard",
+    "description": "Kirby themed lanyard with a cardholder attached",
+    "price": 2.99,
+    "image": "images/kirby-lanyard.jpeg"
+  },
+  {
+    "name": "Kirby Nanoblock",
+    "description": "A nanoblock set that builds into Kirby riding a Warp Star",
+    "price": 1.99,
+    "image": "images/kirby-nanoblock.jpeg"
+  },
+  {
+    "name": "Kirby Plushie",
+    "description": "A basic Kirby plushie with its hands up",
+    "price": 3.99,
+    "image": "images/kirby-plush.jpeg"
+  },
+  {
+    "name": "Kirby Slipper Socks",
+    "description": "Cozy Kirby socks that can also function as slippers and keep your toes warm",
+    "price": 2.99,
+    "image": "images/kirby-slipper-socks.jpeg"
+  },
+  {
+    "name": "Kirby Strawberry Socks",
+    "description": "Kirby themed strawberry socks, super cute and extends beyond the ankle!",
+    "price": 2.99,
+    "image": "images/kirby-strawberry-socks.jpeg"
+  }
+]
